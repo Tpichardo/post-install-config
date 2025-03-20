@@ -23,3 +23,7 @@ In osTicket <b>Roles</b> are permissions granted to Agents per department that t
 5. Select <b>Add Role</b>.
    <br>
       <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 12 45 27 PM" src="https://github.com/user-attachments/assets/88eba019-5a4f-4463-9d79-2141ae653342" />
+
+<h2>Configure Departments</h2>
+
+In osTicket, <b>Departments</b> are teams that manage specific types of customer requests with settings that control visibility, ticket assignment, email responses, and Service Level Agreements (SLAs).
