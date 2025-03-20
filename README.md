@@ -130,3 +130,5 @@ In osTicket, <b>Help Topics</b> are categories that help organize the types of i
      - Equipment Request | <b>Parent Topic:</b> General Inquiry
      - Password Reset | <b>Parent Topic:</b> Report a Problem
      - Other | <b>Parent Topic:</b> General Inquiry
+       <br>
+       <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 7 45 39 PM" src="https://github.com/user-attachments/assets/bfae319a-f5a3-422f-90e1-92267b138440" />
