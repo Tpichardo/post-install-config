@@ -61,12 +61,20 @@ In osTikcet <b>Agents</b> are individuals who are given access to the helpdesk s
 4. Select <b>Set Password</b>,
    - <b>Uncheck</b> the checkbox for <b>Send the agent a password reset email</b>, since the email we used is fake.
    - Create a password.
-   - Select <b>Set</b>
+   - Select <b>Set</b>.
+   <br>
+   <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 4 43 21 PM" src="https://github.com/user-attachments/assets/41ffeab4-c5ff-46fc-b39b-837e40909b53" />
 5. Navigate to the <b>Access</b> tab to assign the Agent to a Primary Department
    - Click the dropdown menu <b>Select Department</b>, and select <b>SysAdmins</b> to add the Agent to the SysAdmins department that we created.
    - Click the <b>Select Role</b> dropdown menu, and select <b>Supreme Admin</b> to assign the Supreme Admin role to the Agent. Remember that our Supreme Admin Role has all permissions enabled, so the Agent who is assigned this role will also have all permissions enabled.
+     <br>
+     <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 4 57 43 PM" src="https://github.com/user-attachments/assets/a5a04b82-bd4b-4459-821a-5969aba976a2" />
 6. Navigate to the <b>Teams</b> tab
    - Click the <b>Select Team</b> dropdown menu and add the Agent the the <b>Online Banking</b> team that we created.
+     <br>
+     <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 4 57 59 PM" src="https://github.com/user-attachments/assets/c43eb63d-f8e8-4c09-85b0-07c4143e05fc" />
 7. Select <b>Create</b>.
 8. Add an Additonal Agent
-   - This agent will be part of the <b>Support</b> Department and have a <b>View Only</b> Role.
+   - This Agent will be part of the <b>Support</b> Department and have a <b>View Only</b> Role.
+     <br>
+     <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 5 04 08 PM" src="https://github.com/user-attachments/assets/cfa80e05-bfb0-403a-95bb-2fe15413a4bd" />
