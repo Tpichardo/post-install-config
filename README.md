@@ -99,12 +99,16 @@ The purpose of an SLA is to set a time in which the support team is expected to 
    - Sev-A SLA Plan:
       - <b>Name</b>: SLA Plan name.
         - Sev-A
-      - <b>Grace Period</b>: Amount, in hours, before tickets with this SLA will become overdue if not closed in allotted time.
+      - <b>Grace Period</b>: Amount, in hours, before tickets with this SLA will become overdue if not closed in allotted time. This means that the support team is expected to close a ticket under this SLA Plan within 1 hour of receiving it.
         - 1 hour
       - <b>Schedule:</b> The working hours during which the SLA timer is active. This means that the support team is expected to work and respond to tickets with this SLA plan at any time of the day or night, all week long.
         - 24/7.
    - Sev-B SLA Plan:
-      - Sev-B (Grace Period: 4 hours, Schedule: 24/7).
+      - <b>Name:</b> Sev-B.
+      - <b>Grace Period:</b> 4 hours.
+      - <b>Schedule: 24/7</b>.
    - Sev-C SLA Plan:
-      - Sev-C (Grace Period: 8 hours, Business Hours)
+      - <b>Name:</b> Sev-C.
+      - <b>Grace Period:</b> 8 hours
+      - <b>Schedule:</b> Monday-Friday 8:00am-5:00pm with US Holidays.
 
