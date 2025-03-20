@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket: Post-Installation Configuration</h1>
-This tutorial outlines the post-installation configuration of the open-source help desk ticketing system, osTicket.<br />
+This tutorial outlines the post-installation configuration of the open-source help desk ticketing system, osTicket. This tutorial is a continuation from [osTicket: Prerequisites and Installation](https://github.com/Tpichardo/osticket-prereq) <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -13,3 +13,6 @@ This tutorial outlines the post-installation configuration of the open-source he
 <h2>Create a Supreme Admin Role</h2>
 
 In osTicket <b>Roles</b> are permissions granted to Agents per department that they have access to. In our case, our Supreme Admin will have all permissions enabled.
+
+1. Navigate to <b>Admin Panel -> Agents -> Roles</b>.
+2. 
