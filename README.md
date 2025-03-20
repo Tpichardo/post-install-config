@@ -15,5 +15,9 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 In osTicket <b>Roles</b> are permissions granted to Agents per department that they have access to. In our case, our Supreme Admin will have all permissions enabled.
 
-1. Navigate to <b>Admin Panel -> Agents -> Roles</b>.
-2. 
+1. Navigate to <b>Admin Panel -> Agents</b> [tab] <b>-> Roles</b>.
+2. Select <b>Add New Role</b>.
+3. Name: Supreme Admin.
+4. Select <b>Permissions</b>.
+   - Enable all permission under the <b>Tickets</b> tab, <b>Tasks</b> tab, and <b>Knowledgebase</b> tab.
+5. Select <b>Add Role</b>.
