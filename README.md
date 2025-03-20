@@ -95,7 +95,7 @@ The purpose of an SLA is to set a time in which the support team is expected to 
 
 1. Navigate to <b>Admin Panel -> Manage -> SLA</b>.
 2. Select <b>Add New SLA Plan</b>.
-3. Fill out the <b>Add New SLA Plan</b> form.
+3. Fill out the <b>Add New SLA Plan</b> form & Select <b>Add Plan</b> after each SLA Plan is complete.
    - Sev-A SLA Plan:
       - <b>Name</b>: SLA Plan name.
         - Sev-A
