@@ -24,7 +24,7 @@ In osTicket <b>Roles</b> are permissions granted to Agents per department that t
    <br>
       <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 12 45 27 PM" src="https://github.com/user-attachments/assets/88eba019-5a4f-4463-9d79-2141ae653342" />
 
-<h2>Configure Departments</h2>
+<h2>Create a Department</h2>
 
 In osTicket, <b>Departments</b> are teams that manage specific types of customer requests with settings that control visibility, ticket assignment, email responses, and Service Level Agreements (SLAs).
 
@@ -32,3 +32,12 @@ In osTicket, <b>Departments</b> are teams that manage specific types of customer
 2. Select <b>Add New Department</b>.
 3. Name: SysAdmins.
 4. Select <b>Create Dept</b>.
+
+<h2>Create a Team</h2>
+
+In osTicket, <b>Teams</b> are made of of agents pulled together from different departments to handle a specfic issue.
+
+1. Navigate to <b> Admin Panel -> Agents</b> [tab] <b>-> Teams</b>.
+2. Select <b>Add New Team</b>.
+3. Name: Online Banking.
+4. Select <b>Create Team</b>.
