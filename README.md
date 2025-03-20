@@ -121,3 +121,12 @@ The purpose of an SLA is to set a time in which the support team is expected to 
 <h2>Create Help Topics</h2>
 
 In osTicket, <b>Help Topics</b> are categories that help organize the types of issues or requests users submit. This is important because it helps determine which Department will handle the ticket. 
+
+1. Navigate to <b>Admin Panel -> Manage -> Help Topics</b>.
+2. Select <b>Add New Help Topic</b>.
+   - Help Topics to create:
+     - Business Critical Outage | Parent Topic: Report a Problem
+     - Personal Computer Issues | Parent Topic: Report a Problem
+     - Equipment Request | Parent Topic: General Inquiry
+     - Password Reset | Parent Topic: Report a Problem
+     - Other | Parent Topic: General Inquiry
