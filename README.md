@@ -48,13 +48,22 @@ In osTicket, <b>Teams</b> are made of of agents pulled together from different d
 Let's configure the user settings to enable users to create tickets without the need to have a registered account. 
 
 1. Navigate to <b>Admin Panel -> Settings</b> [tab] <b>-> Users</b>.
-2. <b>Uncheck</b> the box for <b>Require registration and login to create tickets</b>.
+2. <b>Uncheck</b> the checkbox for <b>Require registration and login to create tickets</b>.
 3. Save Changes.
 
 <h2>Create Agents</h2>
 
 In osTikcet <b>Agents</b> are individuals who are given access to the helpdesk so that they can respond and resolve the tickets. As we create our Agent, we will need to assign them to a primary department and assign them a primary role for the tickets routed to that department. 
 
-1. Navigate to <b>Admin Panel -> Agents</b> [tab] <b>.
+1. Navigate to <b>Admin Panel -> Agents</b> [tab]. <i>Note:</i> There will already be a default agent that was created when we set up osTicket.
 2. Select <b>Add New Agent</b>.
-3. 
+3. Fill out the <b>Add New Agent</b> form (name + email). Feel free to add a fake email address since you will not need to have access to this email.
+4. Select <b>Set Password</b>,
+   - <b>Uncheck</b> the checkbox for <b>Send the agent a password reset email</b>, since the email we used is fake.
+   - Create a password.
+   - Select <b>Set</b>
+5. Navigate to the <b>Access</b> tab to assign the Agent to a Primary Department
+   - Click the dropdown menu <b>Select Department</b>, and select <b>SysAdmins</b> to add the Agent to the SysAdmins department that we created.
+   - Click the <b>Select Role</b> dropdown menu, and select <b>Supreme Admin</b> to assign the Supreme Admin role to the Agent. Remember that our Supreme Admin role has all permissions enabled, so the Agent who is assigned this role will also have all permissions enabled.
+6. Navigate to the <b>Teams</b> tab
+   - CLick the <b>Select Team</b> dropdown menu and add the Agent the the <b>Online Banking</b> team that we created. 
