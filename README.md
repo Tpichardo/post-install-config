@@ -27,3 +27,8 @@ In osTicket <b>Roles</b> are permissions granted to Agents per department that t
 <h2>Configure Departments</h2>
 
 In osTicket, <b>Departments</b> are teams that manage specific types of customer requests with settings that control visibility, ticket assignment, email responses, and Service Level Agreements (SLAs).
+
+1. Navigate to <b>Admin Panel -> Agents</b> [tab] <b>-> Departments</b>.
+2. Select <b>Add New Department</b>.
+3. Name: SysAdmins.
+4. Select <b>Create Dept</b>.
