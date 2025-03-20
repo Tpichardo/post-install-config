@@ -66,4 +66,5 @@ In osTikcet <b>Agents</b> are individuals who are given access to the helpdesk s
    - Click the dropdown menu <b>Select Department</b>, and select <b>SysAdmins</b> to add the Agent to the SysAdmins department that we created.
    - Click the <b>Select Role</b> dropdown menu, and select <b>Supreme Admin</b> to assign the Supreme Admin role to the Agent. Remember that our Supreme Admin role has all permissions enabled, so the Agent who is assigned this role will also have all permissions enabled.
 6. Navigate to the <b>Teams</b> tab
-   - CLick the <b>Select Team</b> dropdown menu and add the Agent the the <b>Online Banking</b> team that we created. 
+   - Click the <b>Select Team</b> dropdown menu and add the Agent the the <b>Online Banking</b> team that we created.
+7. Select <b>Create</b>. 
