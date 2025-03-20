@@ -57,7 +57,7 @@ In osTikcet <b>Agents</b> are individuals who are given access to the helpdesk s
 
 1. Navigate to <b>Admin Panel -> Agents</b> [tab]. <i>Note:</i> There will already be a default agent that was created when we set up osTicket.
 2. Select <b>Add New Agent</b>.
-3. Fill out the <b>Add New Agent</b> form (name + email). Feel free to add a fake email address since you will not need to have access to this email.
+3. Fill out the <b>Add New Agent</b> form (Name + Email). Feel free to add a fake email address since you will not need to have access to this email.
 4. Select <b>Set Password</b>,
    - <b>Uncheck</b> the checkbox for <b>Send the agent a password reset email</b>, since the email we used is fake.
    - Create a password.
@@ -78,3 +78,14 @@ In osTikcet <b>Agents</b> are individuals who are given access to the helpdesk s
    - This Agent will be part of the <b>Support</b> Department and have a <b>View Only</b> Role.
      <br>
      <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 5 04 08 PM" src="https://github.com/user-attachments/assets/cfa80e05-bfb0-403a-95bb-2fe15413a4bd" />
+
+<h2>Create a User (Customer)</h2>
+
+In osTicket, <b>Users</b> can create tickets and view their status.
+
+1. Navigate to <b> Agent Panel -> Users</b>.
+2. Select <b>Add User</b>.
+3. Fill out the <b>Create User</b> form (Name + Email). Feel free to use a fake email address, as you will not need to have access to this email.
+4. Select <b>Add User</b>.
+5. Select <b>User Directory</b> to view your Users.
+
