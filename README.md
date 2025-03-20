@@ -125,8 +125,8 @@ In osTicket, <b>Help Topics</b> are categories that help organize the types of i
 1. Navigate to <b>Admin Panel -> Manage -> Help Topics</b>.
 2. Select <b>Add New Help Topic</b>.
    - Help Topics to create:
-     - Business Critical Outage | Parent Topic: Report a Problem
-     - Personal Computer Issues | Parent Topic: Report a Problem
-     - Equipment Request | Parent Topic: General Inquiry
-     - Password Reset | Parent Topic: Report a Problem
-     - Other | Parent Topic: General Inquiry
+     - Business Critical Outage | <b>Parent Topic:</b> Report a Problem
+     - Personal Computer Issues | <b>Parent Topic:</b> Report a Problem
+     - Equipment Request | <b>Parent Topic:</b> General Inquiry
+     - Password Reset | <b>Parent Topic:</b> Report a Problem
+     - Other | <b>Parent Topic:</b> General Inquiry
