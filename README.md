@@ -21,3 +21,5 @@ In osTicket <b>Roles</b> are permissions granted to Agents per department that t
 4. Select <b>Permissions</b>.
    - Enable all permission under the <b>Tickets</b> tab, <b>Tasks</b> tab, and <b>Knowledgebase</b> tab.
 5. Select <b>Add Role</b>.
+   <br>
+      <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 12 45 27 PM" src="https://github.com/user-attachments/assets/88eba019-5a4f-4463-9d79-2141ae653342" />
