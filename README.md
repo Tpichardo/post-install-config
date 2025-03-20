@@ -87,5 +87,24 @@ In osTicket, <b>Users</b> can create tickets and view their status.
 2. Select <b>Add User</b>.
 3. Fill out the <b>Create User</b> form (Name + Email). Feel free to use a fake email address, as you will not need to have access to this email.
 4. Select <b>Add User</b>.
-5. Select <b>User Directory</b> to view your Users.
+5. Select <b>User Directory</b> to view your User(s).
+
+<h2>Configure Service Level Agreements (SLAs)</h2>
+
+The purpose of an SLA is to set a time in which the support team is expected to respond to or resolve the ticket. We will be creating 3 SLA Plans, each with different levels of severity. 
+
+1. Navigate to <b>Admin Panel -> Manage -> SLA</b>.
+2. Select <b>Add New SLA Plan</b>.
+3. Fill out the <b>Add New SLA Plan</b> form.
+   - Sev-A SLA Plan:
+      - <b>Name</b>: SLA Plan name.
+        - Sev-A
+      - <b>Grace Period</b>: Amount, in hours, before tickets with this SLA will become overdue if not closed in allotted time.
+        - 1 hour
+      - <b>Schedule:</b> The working hours during which the SLA timer is active. This means that the support team is expected to work and respond to tickets with this SLA plan at any time of the day or night, all week long.
+        - 24/7.
+   - Sev-B SLA Plan:
+      - Sev-B (Grace Period: 4 hours, Schedule: 24/7).
+   - Sev-C SLA Plan:
+      - Sev-C (Grace Period: 8 hours, Business Hours)
 
