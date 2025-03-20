@@ -9,3 +9,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 - Microsoft Azure (Virtual Machine)
 - [Windows App](https://apps.apple.com/us/app/windows-app/id1295203466?mt=12) for macOS or Remote Desktop for Windows  
+
+<h2>Create a Supreme Admin Role</h2>
+
+In osTicket <b>Roles</b> are permissions granted to Agents per department that they have access to. In our case, our Supreme Admin will have all permissions enabled.
