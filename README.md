@@ -41,3 +41,12 @@ In osTicket, <b>Teams</b> are made of of agents pulled together from different d
 2. Select <b>Add New Team</b>.
 3. Name: Online Banking.
 4. Select <b>Create Team</b>.
+
+<h2>Enable Users to Create Tickets</h2>
+
+Let's configure the user settings to enable users to create tickets without the need to have a registered account. 
+
+1. Navigate to <b>Admin Panel -> Settings</b> [tab] <b>-> Users</b>.
+2. <b>Uncheck</b> the box for <b>Require registration and login to create tickets</b>.
+3. Save Changes.
+
