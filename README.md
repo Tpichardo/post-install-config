@@ -96,27 +96,27 @@ The purpose of an SLA is to set a time in which the support team is expected to 
 1. Navigate to <b>Admin Panel -> Manage -> SLA</b>.
 2. Select <b>Add New SLA Plan</b>.
 3. Fill out the <b>Add New SLA Plan</b> form & Select <b>Add Plan</b> after each SLA Plan is complete.
-   - Sev-A SLA Plan:
-      - <b>Name</b>: SLA Plan name.
-        - Sev-A
-      - <b>Grace Period</b>: Amount, in hours, before tickets with this SLA will become overdue if not closed in allotted time. This means that the support team is expected to close a ticket under this SLA Plan within 1 hour of receiving it.
-        - 1 hour
-      - <b>Schedule:</b> The working hours during which the SLA timer is active. This means that the support team is expected to work and respond to tickets with this SLA plan at any time of the day or night, all week long.
-        - 24/7.
-          <br>
-          <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 6 42 55 PM" src="https://github.com/user-attachments/assets/b0a901f6-206a-4ebd-a57d-1240c84a4ee5" />
-   - Sev-B SLA Plan:
-      - <b>Name:</b> Sev-B.
-      - <b>Grace Period:</b> 4 hours.
-      - <b>Schedule: 24/7</b>.
-        <br>
-        <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 7 22 16 PM" src="https://github.com/user-attachments/assets/4535c974-9bef-4868-8e8e-da9fbe224a8b" />
-   - Sev-C SLA Plan:
-      - <b>Name:</b> Sev-C.
-      - <b>Grace Period:</b> 8 hours
-      - <b>Schedule:</b> Monday-Friday 8:00am-5:00pm with US Holidays.
-        <br>
-        <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 7 22 43 PM" src="https://github.com/user-attachments/assets/f3fc9285-44c1-47ca-a3a9-e1f918bf60ae" />
+   - <b>Name</b>: SLA Plan name.
+   - <b>Grace Period</b>: Amount, in hours, before tickets with an SLA Plan will become overdue if not closed in the allotted time. This means that the support team is expected to close a ticket under an SLA Plan with a Grace Period of 1 hour, within 1 hour of receiving it.
+   - <b>Schedule:</b> The working hours during which the SLA timer is active. This means that the support team is expected to work and respond to tickets with an SLA Plan with a 24/7 schedule at any time of the day or night, all week long.
+      - Sev-A SLA Plan:
+         - <b>Name</b>: Sev-A
+         - <b>Grace Period</b>: 1 hour
+         - <b>Schedule:</b> 24/7.
+             <br>
+             <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 6 42 55 PM" src="https://github.com/user-attachments/assets/b0a901f6-206a-4ebd-a57d-1240c84a4ee5" />
+      - Sev-B SLA Plan:
+         - <b>Name:</b> Sev-B.
+         - <b>Grace Period:</b> 4 hours.
+         - <b>Schedule: 24/7</b>.
+           <br>
+           <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 7 22 16 PM" src="https://github.com/user-attachments/assets/4535c974-9bef-4868-8e8e-da9fbe224a8b" />
+      - Sev-C SLA Plan:
+         - <b>Name:</b> Sev-C.
+         - <b>Grace Period:</b> 8 hours
+         - <b>Schedule:</b> Monday-Friday 8:00am-5:00pm with US Holidays.
+           <br>
+           <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 7 22 43 PM" src="https://github.com/user-attachments/assets/f3fc9285-44c1-47ca-a3a9-e1f918bf60ae" />
 
 <h2>Create Help Topics</h2>
 
