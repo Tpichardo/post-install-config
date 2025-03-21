@@ -63,7 +63,7 @@ In osTikcet, <b>Agents</b> are individuals who are given access to the helpdesk 
      - Create a <b>Name</b>, <b>Email</b>, and <b>username</b> for the Agent. Feel free to add a fake email address as you will not need to have access to this email.
      - Select <b>Set Password</b>
         - <b>Uncheck</b> the checkbox for <b>Send the agent a password reset email</b>, since the email we used is fake.
-        - Create a password.
+        - Create a password. <i>Note:</i> keep track of all of the credentials you set in this tutorial, as you will need them to navigate the ticketing system as an authenticated Agent later.
         - Select <b>Set</b>.
           <br>
           <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 4 43 21 PM" src="https://github.com/user-attachments/assets/41ffeab4-c5ff-46fc-b39b-837e40909b53" />
