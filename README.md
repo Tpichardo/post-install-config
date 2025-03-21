@@ -30,10 +30,19 @@ In osTicket, <b>Roles</b> are permissions granted to Agents that define what Age
 
 In osTicket, <b>Departments</b> are teams that manage specific types of customer requests with settings that control visibility, ticket assignment, email responses, and Service Level Agreements (SLAs).
 
-1. Navigate to <b>Admin Panel -> Agents</b> [tab] <b>-> Departments</b>. Similar to Roles, some Departments will already be configured for you. 
+1. Navigate to <b>Admin Panel -> Agents</b> [tab] <b>-> Departments</b>. Similar to Roles, some Departments will already be configured for you (Maintenance, Support). 
 2. Select <b>Add New Department</b>.
 3. Name: SysAdmins.
 4. Select <b>Create Dept</b>.
+5. Delete the <b>Maintenance</b> department, as tickets default to this department, and we will not be using it in this tutorial series.
+   - Select the checkbox corresponding to the <b>Maintenance</b> Department.
+   - Select <b>More</b>.
+     - From the drop down menu, select <b>Delete</b>.
+       <br>
+       <img height="80%" width="80%" alt="Screenshot 2025-03-21 at 2 38 13 AM" src="https://github.com/user-attachments/assets/8b6e6b66-9806-4679-b1cc-7fbcf0116180" />
+   - In the confirmation pop up, select <b>Yes, Do it!</b> to delete the Maintenance Department.
+     <br>
+     <img height="80%" width="80%" alt="Screenshot 2025-03-21 at 2 40 45 AM" src="https://github.com/user-attachments/assets/b2aebe8f-eeca-4e74-bc25-c0288790f5d2" />
 
 <h2>Create a Team</h2>
 
