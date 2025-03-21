@@ -59,24 +59,25 @@ In osTikcet, <b>Agents</b> are individuals who are given access to the helpdesk 
 1. Navigate to <b>Admin Panel -> Agents</b> [tab]. <i>Note:</i> There will already be a default Agent that was created when we set up osTicket.
 2. Select <b>Add New Agent</b>.
 3. Fill out the <b>Add New Agent</b> Form
-   - Under the <b>Account</b> Tab: create a <b>Name</b>, <b>Email</b>, <b>username</b>, and <b>password</b> for the Agent. Feel free to add a fake email address as you will not need to have access to this email.
-4. Select <b>Set Password</b>
-   - <b>Uncheck</b> the checkbox for <b>Send the agent a password reset email</b>, since the email we used is fake.
-   - Create a password.
-   - Select <b>Set</b>.
-   <br>
-   <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 4 43 21 PM" src="https://github.com/user-attachments/assets/41ffeab4-c5ff-46fc-b39b-837e40909b53" />
-5. Navigate to the <b>Access</b> tab to assign the Agent to a Primary Department
-   - From the <b>Select Department</b> dropdown menu, select <b>SysAdmins</b> to add the Agent to the SysAdmins department that we created.
-   - From the <b>Select Role</b> dropdown menu, select <b>Supreme Admin</b> to assign the Supreme Admin Role to the Agent. Remember that our Supreme Admin Role has all permissions enabled, so the Agent who is assigned this Role will also have all permissions enabled.
-     <br>
-     <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 4 57 43 PM" src="https://github.com/user-attachments/assets/a5a04b82-bd4b-4459-821a-5969aba976a2" />
-6. Navigate to the <b>Teams</b> tab
-   - From the <b>Select Team</b> dropdown menu, select the <b>Online Banking</b> team.
-     <br>
-     <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 4 57 59 PM" src="https://github.com/user-attachments/assets/c43eb63d-f8e8-4c09-85b0-07c4143e05fc" />
-7. Select <b>Create</b>.
-8. Add an Additonal Agent
+   - Under the <b>Account</b> Tab
+     - Create a <b>Name</b>, <b>Email</b>, and <b>username</b> for the Agent. Feel free to add a fake email address as you will not need to have access to this email.
+     - Select <b>Set Password</b>
+        - <b>Uncheck</b> the checkbox for <b>Send the agent a password reset email</b>, since the email we used is fake.
+        - Create a password.
+        - Select <b>Set</b>.
+          <br>
+          <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 4 43 21 PM" src="https://github.com/user-attachments/assets/41ffeab4-c5ff-46fc-b39b-837e40909b53" />
+   - Navigate to the <b>Access</b> tab to assign the Agent to a Primary Department
+     - From the <b>Select Department</b> dropdown menu, select <b>SysAdmins</b> to add the Agent to the SysAdmins department that we created.
+     - From the <b>Select Role</b> dropdown menu, select <b>Supreme Admin</b> to assign the Supreme Admin Role to the Agent. Remember that our Supreme Admin Role has all permissions enabled, so the Agent who is assigned this Role will also have all permissions enabled.
+       <br>
+       <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 4 57 43 PM" src="https://github.com/user-attachments/assets/a5a04b82-bd4b-4459-821a-5969aba976a2" />
+   - Navigate to the <b>Teams</b> tab
+     - From the <b>Select Team</b> dropdown menu, select the <b>Online Banking</b> team.
+       <br>
+       <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 4 57 59 PM" src="https://github.com/user-attachments/assets/c43eb63d-f8e8-4c09-85b0-07c4143e05fc" />
+4. Select <b>Create</b>.
+5. Add an Additonal Agent (You'll have 3 in total)
    - This Agent will be part of the <b>Support</b> Department and have a <b>View Only</b> Role.
      <br>
      <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 5 04 08 PM" src="https://github.com/user-attachments/assets/cfa80e05-bfb0-403a-95bb-2fe15413a4bd" />
