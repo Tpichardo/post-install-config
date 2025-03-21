@@ -10,7 +10,8 @@ Congratulations! Now that you've installed osTicket, this tutorial will outline 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machine)
-- [Windows App](https://apps.apple.com/us/app/windows-app/id1295203466?mt=12) for macOS or Remote Desktop for Windows  
+- [Windows App](https://apps.apple.com/us/app/windows-app/id1295203466?mt=12) for macOS or Remote Desktop for Windows
+- osTicket  
 
 <h2>Create a Supreme Admin Role</h2>
 
