@@ -58,7 +58,8 @@ In osTikcet, <b>Agents</b> are individuals who are given access to the helpdesk 
 
 1. Navigate to <b>Admin Panel -> Agents</b> [tab]. <i>Note:</i> There will already be a default Agent that was created when we set up osTicket.
 2. Select <b>Add New Agent</b>.
-3. Fill out the <b>Add New Agent</b> form (Name + Email). Feel free to add a fake email address as you will not need to have access to this email.
+3. Fill out the <b>Add New Agent</b> Form
+   - Under the <b>Account</b> Tab: create a <b>Name</b>, <b>Email</b>, <b>username</b>, and <b>password</b> for the Agent. Feel free to add a fake email address as you will not need to have access to this email.
 4. Select <b>Set Password</b>
    - <b>Uncheck</b> the checkbox for <b>Send the agent a password reset email</b>, since the email we used is fake.
    - Create a password.
