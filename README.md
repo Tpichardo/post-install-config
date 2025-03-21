@@ -14,9 +14,9 @@ Congratulations! Now that you've installed osTicket, this tutorial will outline 
 
 <h2>Create a Supreme Admin Role</h2>
 
-In osTicket <b>Roles</b> are permissions granted to Agents per department that they have access to. In our case, our Supreme Admin will have all permissions enabled.
+In osTicket, <b>Roles</b> are permissions granted to Agents that define what Agents are allowed to do, like viewing, responding, or managing tickets. In our case, our Supreme Admin will have all permissions enabled.
 
-1. Navigate to <b>Admin Panel -> Agents</b> [tab] <b>-> Roles</b>. <i>Note</i>: Some roles will already be configured for you. Feel free to navigate these Roles and view their permissions. 
+1. Navigate to <b>Admin Panel -> Agents</b> [tab] <b>-> Roles</b>. <i>Note</i>: Some roles will already be configured for you. Feel free to examine these Roles and view their permissions. 
 2. Select <b>Add New Role</b>.
 3. Name: Supreme Admin.
 4. Select <b>Permissions</b>.
@@ -36,7 +36,7 @@ In osTicket, <b>Departments</b> are teams that manage specific types of customer
 
 <h2>Create a Team</h2>
 
-In osTicket, <b>Teams</b> are made of of agents pulled together from different departments to handle a specfic issue.
+In osTicket, <b>Teams</b> consist of Agents pulled together from different Departments to handle a specfic issue.
 
 1. Navigate to <b> Admin Panel -> Agents</b> [tab] <b>-> Teams</b>.
 2. Select <b>Add New Team</b>.
@@ -49,28 +49,28 @@ Let's configure the user settings to enable users to create tickets without the 
 
 1. Navigate to <b>Admin Panel -> Settings</b> [tab] <b>-> Users</b>.
 2. <b>Uncheck</b> the checkbox for <b>Require registration and login to create tickets</b>.
-3. Save Changes.
+3. Save changes.
 
 <h2>Create Agents</h2>
 
-In osTikcet <b>Agents</b> are individuals who are given access to the helpdesk so that they can respond and resolve the tickets. As we create our Agent, we will need to assign them to a primary department and assign them a primary role for the tickets routed to that department. 
+In osTikcet, <b>Agents</b> are individuals who are given access to the helpdesk so that they can respond and resolve the tickets. As we create our Agent, we will need to assign them to a primary department and assign them a primary role for the tickets routed to that department. 
 
-1. Navigate to <b>Admin Panel -> Agents</b> [tab]. <i>Note:</i> There will already be a default agent that was created when we set up osTicket.
+1. Navigate to <b>Admin Panel -> Agents</b> [tab]. <i>Note:</i> There will already be a default Agent that was created when we set up osTicket.
 2. Select <b>Add New Agent</b>.
-3. Fill out the <b>Add New Agent</b> form (Name + Email). Feel free to add a fake email address since you will not need to have access to this email.
-4. Select <b>Set Password</b>,
+3. Fill out the <b>Add New Agent</b> form (Name + Email). Feel free to add a fake email address as you will not need to have access to this email.
+4. Select <b>Set Password</b>
    - <b>Uncheck</b> the checkbox for <b>Send the agent a password reset email</b>, since the email we used is fake.
    - Create a password.
    - Select <b>Set</b>.
    <br>
    <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 4 43 21 PM" src="https://github.com/user-attachments/assets/41ffeab4-c5ff-46fc-b39b-837e40909b53" />
 5. Navigate to the <b>Access</b> tab to assign the Agent to a Primary Department
-   - Click the dropdown menu <b>Select Department</b>, and select <b>SysAdmins</b> to add the Agent to the SysAdmins department that we created.
-   - Click the <b>Select Role</b> dropdown menu, and select <b>Supreme Admin</b> to assign the Supreme Admin role to the Agent. Remember that our Supreme Admin Role has all permissions enabled, so the Agent who is assigned this role will also have all permissions enabled.
+   - From the <b>Select Department</b> dropdown menu, select <b>SysAdmins</b> to add the Agent to the SysAdmins department that we created.
+   - From the <b>Select Role</b> dropdown menu, select <b>Supreme Admin</b> to assign the Supreme Admin Role to the Agent. Remember that our Supreme Admin Role has all permissions enabled, so the Agent who is assigned this Role will also have all permissions enabled.
      <br>
      <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 4 57 43 PM" src="https://github.com/user-attachments/assets/a5a04b82-bd4b-4459-821a-5969aba976a2" />
 6. Navigate to the <b>Teams</b> tab
-   - Click the <b>Select Team</b> dropdown menu and add the Agent the the <b>Online Banking</b> team that we created.
+   - From the <b>Select Team</b> dropdown menu, select the <b>Online Banking</b> team.
      <br>
      <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 4 57 59 PM" src="https://github.com/user-attachments/assets/c43eb63d-f8e8-4c09-85b0-07c4143e05fc" />
 7. Select <b>Create</b>.
