@@ -86,7 +86,7 @@ In osTicket, <b>Users</b> can create tickets and view their status.
 
 1. Navigate to <b> Agent Panel -> Users</b>.
 2. Select <b>Add User</b>.
-3. Fill out the <b>Create User</b> form (Name + Email). Feel free to use a fake email address, as you will not need to have access to this email.
+3. Fill out the <b>Create User</b> form (Name + Email). Feel free to use a fake email address, as you will not need to have access to this email. However, keep track of the email address you use as you will use it later to create tickets. 
 4. Select <b>Add User</b>.
 5. Select <b>User Directory</b> to view your User(s).
 
