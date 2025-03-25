@@ -15,7 +15,7 @@ Congratulations! Now that you've installed osTicket, this tutorial will outline 
 
 <h2>Create a Supreme Admin Role</h2>
 
-In osTicket, <b>Roles</b> are permissions granted to Agents that define what Agents are allowed to do, like viewing, responding, or managing tickets. In our case, our Supreme Admin will have all permissions enabled.
+In osTicket, <b>Roles</b> define the permissions granted to Agents, determining what they can do, such as viewing, responding to, managing, or deleting tickets. The <b>All Access</b> role includes all permissions by default, but for practice, we will create a custom role with the same permissions.
 
 1. Navigate to <b>Admin Panel -> Agents</b> [tab] <b>-> Roles</b>. <i>Note</i>: Some roles will already be configured for you. Feel free to examine these Roles and view their permissions. 
 2. Select <b>Add New Role</b>.
@@ -25,6 +25,15 @@ In osTicket, <b>Roles</b> are permissions granted to Agents that define what Age
 5. Select <b>Add Role</b>.
    <br>
       <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 12 45 27 PM" src="https://github.com/user-attachments/assets/88eba019-5a4f-4463-9d79-2141ae653342" />
+
+<h2>Update The Expanded Access Role</h2>
+
+Let's update the Expanded Access role to allow tickets to be marked as answered.
+
+1. In Roles, select <b> Expanded Access</b>.
+2. Navigate to the <b>Permissions</b> tab.
+3. Under the <b>Tickets</b> tab, check the checkbox for <b>"Mark as Answered — Ability to mark a ticket as Answered/Unanswered</b>.
+4. Select <b>Save Changes</b>.
 
 <h2>Create a Department</h2>
 
