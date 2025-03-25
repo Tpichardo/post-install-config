@@ -97,7 +97,7 @@ In osTikcet, <b>Agents</b> are individuals who are given access to the helpdesk 
        <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 4 57 59 PM" src="https://github.com/user-attachments/assets/c43eb63d-f8e8-4c09-85b0-07c4143e05fc" />
 4. Select <b>Create</b>.
 5. Add an Additonal Agent (You'll have 3 in total)
-   - This Agent will be part of the <b>Support</b> Department and have a <b>View Only</b> Role.
+   - This Agent will be part of the <b>Support</b> Department and have the <b>Expanded Access</b> Role.
      <br>
      <img height="80%" width="80%" alt="Screenshot 2025-03-20 at 5 04 08 PM" src="https://github.com/user-attachments/assets/cfa80e05-bfb0-403a-95bb-2fe15413a4bd" />
 
